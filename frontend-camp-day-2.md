@@ -1,4 +1,4 @@
-# Vue 响应式原理（2）
+# Vue3 响应式原理（2）
 
 > 极客时间前端进阶训练营笔记—Day2，2023-1-7
 
@@ -35,9 +35,16 @@
 4. 调用：拦截到写数据时，`trigger()` 注册的副作用（一个或多个）
 5. 监视（可选）：如果有 `watch`，会在 `trigger()` 调用时，通过 `scheduler` 执行回调函数
 
+在 Vue3 中主要通过 [Proxy][2] 来实现。相比较 Vue2 使用的 [Object.defineProperty()][3] 有一些便利与优势。
+
+但是同时也带来了对浏览器版本的限制：IE11 及以下版本不兼容。
+
 官网的文档中，还讨论了响应式调试与与外部系统集成的集中方式。这些作为动手练习与后续学习的事项。
 
 - [ ] 动手实现响应式调试
 - [ ] 学习响应式如何与外部状态系统集成，包括**不可变数据**、**状态机**、**RxJS**
+- [ ] 了解 Vue3.1 与 compact 包？对 IE11 等的兼容性
 
 [1]: https://cn.vuejs.org/guide/extras/reactivity-in-depth.html
+[2]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Proxy
+[3]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
