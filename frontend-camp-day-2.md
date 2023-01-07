@@ -5,6 +5,7 @@
 **是什么？**
 
 - 响应式数据 `Ref`：把一个值变为响应式能够处理的对象，当值发生变化时，能够侦测（`track`）到变化，并根据响应式机制执行对应的副作用（Effect）。
+  - `computed` 函数本质是一种 `Ref`，类型为 `ComputedRefImpl`
 - 响应式副作用 `ReactiveEffect`：通常是某种计算，例如更新 DOM 等。
 - 响应式监视：`watch` 监视响应式对象，执行回调（callback）
 
