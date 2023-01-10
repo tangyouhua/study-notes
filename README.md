@@ -2,6 +2,7 @@
 
 ## 极客时间21天学习打卡
 
+- [动手实验 mini-vue（1）](./frontend-camp-day-5.md)：前端进阶训练营笔记-Day5，2023-1-10
 - [Vue3 编译器](./frontend-camp-day-4.md)：前端进阶训练营笔记-Day4，2023-1-9
 - [Vue3 nextTick 原理与 patch 细节](./frontend-camp-day-3.md)：前端进阶训练营笔记-Day3，2023-1-8
 - [Vue3 响应式原理（2）](./frontend-camp-day-2.md)：前端进阶训练营笔记-Day2，2023-1-7
