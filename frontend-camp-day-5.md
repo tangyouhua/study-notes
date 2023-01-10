@@ -82,7 +82,10 @@ pnpm run test
 
 ## 效果
 
+- 环境搭建成功：[tag v0.0][2]
+
 ## 总结
 
 [1]: https://github.com/tangyouhua/lab-mini-vue
+[2]: https://github.com/tangyouhua/lab-mini-vue/releases/tag/v0.0
 [2]: https://cn.vitejs.dev/guide/#scaffolding-your-first-vite-project
