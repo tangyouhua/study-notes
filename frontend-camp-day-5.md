@@ -133,6 +133,11 @@ export function createApp(rootComponent) {
 
 ## 总结
 
+- 创建项目与配置开发环境
+- 熟悉测试驱动开发方法
+- 建立 mini-vue 骨架，开始替换默认实现
+
+
 [1]: https://github.com/tangyouhua/lab-mini-vue
 [2]: https://cn.vitejs.dev/guide/#scaffolding-your-first-vite-project
 [3]: https://github.com/tangyouhua/lab-mini-vue/releases/tag/v0.0
