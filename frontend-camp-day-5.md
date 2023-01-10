@@ -24,11 +24,12 @@
 
 ## 步骤
 
-1. 建立 GitHub 仓库：
-2. 按照 [Vite 文档][1]建立项目
+1. 建立 GitHub 仓库：[lab-mini-vue][1]
+2. 按照 [Vite 文档][2]建立项目
 
 ## 效果
 
 ## 总结
 
-[1]: https://cn.vitejs.dev/guide/#scaffolding-your-first-vite-project
+[1]: https://github.com/tangyouhua/lab-mini-vue
+[2]: https://cn.vitejs.dev/guide/#scaffolding-your-first-vite-project
