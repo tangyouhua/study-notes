@@ -26,6 +26,59 @@
 
 1. 建立 GitHub 仓库：[lab-mini-vue][1]
 2. 按照 [Vite 文档][2]建立项目
+3. 配置环境（Vite + Vue + Vitest）
+
+### 配置环境
+**安装项目依赖**
+
+```shell
+npm i vitest happy-dom -D
+```
+
+配置 vite.config.js，增加 `test` 配置
+
+```js
+export default defineConfig({
+  plugins: [vue()],
+  test: {
+    globals: true, // jest like语法
+    environment: 'happy-dom', // 模拟DOM环境
+  }
+})
+```
+
+package.json 增加 "test"
+
+```json
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest" // test指定为vitest
+  },
+```
+
+添加单元测试 `src/components/HelloWorld.test.js`，内容如下，
+
+```js
+test('should first', () => {
+    expect(true).toBe(true)
+});
+```
+
+**验证环境**
+
+执行下面命令，启动项目
+
+```shell
+pnpm run dev
+```
+
+执行下面命令，启动测试
+
+```shell
+pnpm run test
+```
 
 ## 效果
 
