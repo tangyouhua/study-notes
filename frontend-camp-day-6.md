@@ -6,7 +6,7 @@
 
 - [x] v0.1
   - 创建实例 `createApp(App)`
-  - `app.mount('#app')
+  - `app.mount('#app')`
 - [x] v0.2
   - 创建渲染器 renderer：`createRender()`
   - 提供 render：`renderer.render`
