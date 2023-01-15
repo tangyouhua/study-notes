@@ -2,6 +2,7 @@
 
 ## 极客时间21天学习打卡
 
+- [动手实验 mini-router（2）](./frontend-camp-day-10.md)：前端进阶训练营笔记-Day10，2023-1-15
 - [动手实验 mini-router（1）](./frontend-camp-day-9.md)：前端进阶训练营笔记-Day9，2023-1-14
 - [动手实验 mini-vue（4）](./frontend-camp-day-8.md)：前端进阶训练营笔记-Day8，2023-1-13
 - [动手实验 mini-vue（3）](./frontend-camp-day-7.md)：前端进阶训练营笔记-Day7，2023-1-12
