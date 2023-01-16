@@ -134,7 +134,7 @@ export default defineComponent({
 
 ## 效果
 
-- [v0.21](https://github.com/tangyouhua/lab-mini-router/releases/tag/v0.21)
+- [v0.2](https://github.com/tangyouhua/lab-mini-router/releases/tag/v0.2)
   - 能够正常加载，并看到超链接 `Go to home` 为 `#/`, `Go to about` 为 `#/about`
 
 ## 总结
