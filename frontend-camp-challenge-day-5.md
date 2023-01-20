@@ -158,7 +158,7 @@ store.dispatch = commit.bind(store)
 
 ## 效果
 
-- [v0.2](https://github.com/tangyouhua/lab-mini-vuex/releases/tag/v0.2)：与 v0.0 版本功能支持，浏览器 console 无报错
+- [v0.2](https://github.com/tangyouhua/lab-mini-vuex/releases/tag/v0.2)：与 v0.0 版本功能一致，浏览器 console 无报错
 
 ## 总结
 
