@@ -1,4 +1,4 @@
-# TDD Vue
+# TDD Vue (1)
 
 > 极客时间前端进阶训练营练习项目
 
@@ -159,7 +159,7 @@ describe("jest test", () => {
 
 ## 效果
 
-- [v0.0](https://github.com/tangyouhua/lab-tdd-vue/releases/tag/v0.0
+- [v0.0](https://github.com/tangyouhua/lab-tdd-vue/releases/tag/v0.0)
   - 执行 `pnpm test` 可调用 jest watch，实现边开发边执行单元测试
  
 ## 总结
