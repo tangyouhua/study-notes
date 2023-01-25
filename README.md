@@ -2,7 +2,8 @@
 
 ## 极客时间21天学习打卡
 
-- [动手实验 tdd-vue（2）](./frontend-camp-challenge-day-9.md)：前端进阶训练营笔记-打卡-Day9，2023-1-23
+- [动手实验 tdd-vue（3）](./frontend-camp-challenge-day-10.md)：前端进阶训练营笔记-打卡-Day10，2023-1-25
+- [动手实验 tdd-vue（2）](./frontend-camp-challenge-day-9.md)：前端进阶训练营笔记-打卡-Day9，2023-1-24
 - [动手实验 tdd-vue（1）](./frontend-camp-challenge-day-8.md)：前端进阶训练营笔记-打卡-Day8，2023-1-23
 - [动手实验 mini-vuex（5）](./frontend-camp-challenge-day-7.md)：前端进阶训练营笔记-打卡-Day7，2023-1-22
 - [动手实验 mini-vuex（4）](./frontend-camp-challenge-day-6.md)：前端进阶训练营笔记-打卡-Day6，2023-1-21
