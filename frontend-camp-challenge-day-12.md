@@ -173,7 +173,7 @@ function genText(text) {...}
 
 ## 效果
 
-- [v0.4](https://github.com/tangyouhua/lab-tdd-vue/releases/tag/v0.5)
+- [v0.4](https://github.com/tangyouhua/lab-tdd-vue/releases/tag/v0.4)
   - 所有代码生成单元测试通过
 
 ## 总结
