@@ -2,6 +2,7 @@
 
 ## 极客时间21天学习打卡
 
+- [NPM 包管理](./frontend-camp-challenge-day-14.md)：前端进阶训练营笔记-打卡-Day14，2023-1-29
 - [动手实验 tdd-vue（6）](./frontend-camp-challenge-day-13.md)：前端进阶训练营笔记-打卡-Day13，2023-1-28
 - [动手实验 tdd-vue（5）](./frontend-camp-challenge-day-12.md)：前端进阶训练营笔记-打卡-Day12，2023-1-27
 - [动手实验 tdd-vue（4）](./frontend-camp-challenge-day-11.md)：前端进阶训练营笔记-打卡-Day11，2023-1-26
