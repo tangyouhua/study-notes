@@ -164,7 +164,7 @@ node test.js
 utils:  This is utils package
 ```
 
-[示例项目仓库](https://github.com/tangyouhua/lab-monorepo-smarty)### Monorepo
+[示例项目仓库](https://github.com/tangyouhua/lab-monorepo-smarty)，每个步骤变更可以参见提交记录。
 
 ## 官方文档
 
