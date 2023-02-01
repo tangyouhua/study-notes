@@ -2,6 +2,7 @@
 
 ## 极客时间21天学习打卡
 
+- [模块化](./frontend-camp-challenge-day-17.md)：前端进阶训练营笔记-打卡-Day17，2023-2-1
 - [脚手架与 CLI](./frontend-camp-challenge-day-16.md)：前端进阶训练营笔记-打卡-Day16，2023-1-31
 - [Monorepo](./frontend-camp-challenge-day-15.md)：前端进阶训练营笔记-打卡-Day15，2023-1-30
 - [NPM 包管理](./frontend-camp-challenge-day-14.md)：前端进阶训练营笔记-打卡-Day14，2023-1-29
