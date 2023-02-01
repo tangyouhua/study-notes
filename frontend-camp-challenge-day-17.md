@@ -58,8 +58,6 @@
 
 ## 操作实例
 
-```
-
 1 立即执行函数 IIFE（Immediately-Invoked Function Expression）
 
 原始代码
@@ -70,6 +68,7 @@ const format = str => spliter + str + spliter
 const util = {
   format
 }
+```
 
 - 全局污染
 - `spliter` 变量有被修改的风险
