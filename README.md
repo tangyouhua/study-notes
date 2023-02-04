@@ -2,6 +2,7 @@
 
 ## 极客时间21天学习打卡
 
+- [Jest 单元测试（1）](./frontend-camp-challenge-day-20.md)：前端进阶训练营笔记-打卡-Day20，2023-2-4
 - [Babel 编译器](./frontend-camp-challenge-day-19.md)：前端进阶训练营笔记-打卡-Day19，2023-2-3
 - [Rollup 基础](./frontend-camp-challenge-day-18.md)：前端进阶训练营笔记-打卡-Day18，2023-2-2
 - [模块化](./frontend-camp-challenge-day-17.md)：前端进阶训练营笔记-打卡-Day17，2023-2-1
