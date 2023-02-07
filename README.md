@@ -2,6 +2,7 @@
 
 ## 极客时间2月学习打卡
 
+- [Jest 单元测试（4）](./frontend-camp-challenge-feb-day2.md)：前端进阶训练营笔记-2月打卡-Day2，2023-2-7
 - [Jest 单元测试（3）](./frontend-camp-challenge-feb-day1.md)：前端进阶训练营笔记-2月打卡-Day1，2023-2-6
 
 ## 极客时间21天学习打卡
