@@ -131,4 +131,4 @@ exports.generateDiv = () => {
 - [Building a JavaScript Testing Framework](https://cpojer.net/posts/building-a-javascript-testing-framework)
 - [jsdom](https://github.com/jsdom/jsdom)
 
-此文章为2月Day2学习笔记，内容来源于极客时间《前端进阶训练营》
+此文章为2月Day3学习笔记，内容来源于极客时间《前端进阶训练营》
