@@ -2,6 +2,7 @@
 
 ## 极客时间2月学习打卡
 
+- [抽象语法树 AST 介绍与实验](./frontend-camp-challenge-feb-day4.md)：前端进阶训练营笔记-2月打卡-Day4，2023-2-9
 - [Jest 单元测试（5）](./frontend-camp-challenge-feb-day3.md)：前端进阶训练营笔记-2月打卡-Day3，2023-2-8
 - [Jest 单元测试（4）](./frontend-camp-challenge-feb-day2.md)：前端进阶训练营笔记-2月打卡-Day2，2023-2-7
 - [Jest 单元测试（3）](./frontend-camp-challenge-feb-day1.md)：前端进阶训练营笔记-2月打卡-Day1，2023-2-6
