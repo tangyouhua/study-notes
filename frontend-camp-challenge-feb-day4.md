@@ -17,7 +17,7 @@ console.log(message)
 
 打开工具网站，例如 [astexplorer](https://astexplorer.net/)，可以看到对应的抽象语法树。如下图：
 
-![Javascript Greeting AST](images/ast-js-greeting.png)
+<img src="images/ast-js-greeting.png" title="Javascript Greeting AST" width="400px">
 
 这里可以看到，JavaScript AST 遵循 [ECMAScript 语言标准](https://262.ecma-international.org/9.0/#sec-intro)。
 
@@ -43,7 +43,7 @@ console.log(message)
 
 ```shell
 mkdir lab-ast
-cde lab-ast
+cd lab-ast
 npm i @babel/parser -D
 npm i @babel/traverse -D
 npm i fs
