@@ -2,6 +2,7 @@
 
 ## 极客时间2月学习打卡
 
+- [Mini Rollup（1）](./frontend-camp-challenge-feb-day6.md)：前端进阶训练营笔记-2月打卡-Day6，2023-2-11
 - [Webpack 基本概念与实验](./frontend-camp-challenge-feb-day5.md)：前端进阶训练营笔记-2月打卡-Day5，2023-2-10
 - [抽象语法树 AST 介绍与实验](./frontend-camp-challenge-feb-day4.md)：前端进阶训练营笔记-2月打卡-Day4，2023-2-9
 - [Jest 单元测试（5）](./frontend-camp-challenge-feb-day3.md)：前端进阶训练营笔记-2月打卡-Day3，2023-2-8
