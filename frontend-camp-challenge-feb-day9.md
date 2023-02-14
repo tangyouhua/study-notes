@@ -106,7 +106,7 @@ module.exports = Scope
 
 ## 效果
 
-- [v0.3](https://github.com/tangyouhua/lab-mini-rollup/releases/tag/v0.2)
+- [v0.3](https://github.com/tangyouhua/lab-mini-rollup/releases/tag/v0.3)
   - 执行 `jest scope` 可以看到除1个单元测试通过
 
 ## 总结
