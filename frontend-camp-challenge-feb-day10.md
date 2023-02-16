@@ -190,7 +190,7 @@ function analyse(ast, magicString, module) {
 ## 效果
 
 - [v0.4](https://github.com/tangyouhua/lab-mini-rollup/releases/tag/v0.4)
-  - 执行 `jest scope` 可以看到除2个单元测试通过
+  - 执行 `jest analyse` 可以看到除2个单元测试通过
 
 ## 总结
 - 增加 analyse，在 ast 基础上增加 `_scope` 全局作用域、`_defines` 函数定义、`_dependsOn` 依赖，供后续打包与 Treeshaking 使用
