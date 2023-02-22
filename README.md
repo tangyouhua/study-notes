@@ -2,6 +2,7 @@
 
 ## 极客时间2月学习打卡
 
+- [持续集成（3）](./frontend-camp-challenge-feb-day17.md)：前端进阶训练营笔记-2月打卡-Day17，2023-2-22
 - [持续集成（2）](./frontend-camp-challenge-feb-day16.md)：前端进阶训练营笔记-2月打卡-Day16，2023-2-21
 - [持续集成（1）](./frontend-camp-challenge-feb-day15.md)：前端进阶训练营笔记-2月打卡-Day15，2023-2-20
 - [Mini Rollup（9）](./frontend-camp-challenge-feb-day14.md)：前端进阶训练营笔记-2月打卡-Day14，2023-2-19
