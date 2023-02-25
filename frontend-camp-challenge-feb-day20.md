@@ -155,30 +155,30 @@ npx husky add .husky/pre-commit "npx lint-staged"
     1. 关闭 index.js 的保存后自动格式化选项
     2. 增加下面的代码
 
-```JavaScript
-function prettiertest() {
-  console.log("Git hook help me do formatting")
-}
+        ```JavaScript
+        function prettiertest() {
+          console.log("Git hook help me do formatting")
+        }
 
-module.exports = {
-  hello: greeting,
-  linttest: linttest,
-formattest: prettiertest
-};
-```
+        module.exports = {
+          hello: greeting,
+          linttest: linttest,
+        formattest: prettiertest
+        };
+        ```
     3. 提交代码后，发现代码被自动格式化为
 
-```JavaScript
-function prettiertest() {
-  console.log("Git hook help me do formatting");
-}
+        ```JavaScript
+        function prettiertest() {
+          console.log("Git hook help me do formatting");
+        }
 
-module.exports = {
-  hello: greeting,
-  linttest: linttest,
-  formattest: prettiertest,
-};
-```
+        module.exports = {
+          hello: greeting,
+          linttest: linttest,
+          formattest: prettiertest,
+        };
+        ```
     4. 查看远程仓库的提交记录，收到的是格式化后的代码
 
         ![](./images/prettier-git.png)
