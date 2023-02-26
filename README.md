@@ -2,6 +2,7 @@
 
 ## 极客时间2月学习打卡
 
+- [前端调试工具](./frontend-camp-challenge-feb-day21.md)：前端进阶训练营笔记-2月打卡-Day21，2023-2-26
 - [Prettier 使用](./frontend-camp-challenge-feb-day20.md)：前端进阶训练营笔记-2月打卡-Day20，2023-2-25
 - [ESLint 使用](./frontend-camp-challenge-feb-day19.md)：前端进阶训练营笔记-2月打卡-Day19，2023-2-24
 - [git 版本管理](./frontend-camp-challenge-feb-day18.md)：前端进阶训练营笔记-2月打卡-Day18，2023-2-23
