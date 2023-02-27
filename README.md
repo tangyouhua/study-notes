@@ -2,6 +2,7 @@
 
 ## 极客时间2月学习打卡
 
+- [Polyfill垫片与浏览器兼容](./frontend-camp-challenge-feb-day22.md)：前端进阶训练营笔记-2月打卡-Day22，2023-2-27
 - [前端调试工具](./frontend-camp-challenge-feb-day21.md)：前端进阶训练营笔记-2月打卡-Day21，2023-2-26
 - [Prettier 使用](./frontend-camp-challenge-feb-day20.md)：前端进阶训练营笔记-2月打卡-Day20，2023-2-25
 - [ESLint 使用](./frontend-camp-challenge-feb-day19.md)：前端进阶训练营笔记-2月打卡-Day19，2023-2-24
