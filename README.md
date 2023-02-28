@@ -2,6 +2,7 @@
 
 ## 极客时间2月学习打卡
 
+- [使用Jest测试代码覆盖率](./frontend-camp-challenge-feb-day23.md)：前端进阶训练营笔记-2月打卡-Day23，2023-2-28
 - [Polyfill垫片与浏览器兼容](./frontend-camp-challenge-feb-day22.md)：前端进阶训练营笔记-2月打卡-Day22，2023-2-27
 - [前端调试工具](./frontend-camp-challenge-feb-day21.md)：前端进阶训练营笔记-2月打卡-Day21，2023-2-26
 - [Prettier 使用](./frontend-camp-challenge-feb-day20.md)：前端进阶训练营笔记-2月打卡-Day20，2023-2-25
