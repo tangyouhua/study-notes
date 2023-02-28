@@ -1,6 +1,8 @@
-## 什么是代码覆盖率
+# 使用Jest测试代码覆盖率
 
 > 前端进阶训练营笔记-2月打卡-Day23，2023-2-28
+
+## 什么是代码覆盖率
 
 在软件测试中，代码覆盖率是一个重要的指标，用于衡量测试用例集对被测代码的覆盖程度。常见的代码覆盖率包括语句覆盖、分支覆盖、条件覆盖、路径覆盖等。
 
@@ -134,11 +136,11 @@ coverage
 
 在浏览器中打开 index.html，可以看到更详细的报告。
 
-![](https://secure2.wostatic.cn/static/2tP6Fq9BFgbqAFHVpriiv6/code-coverage-report.png?auth_key=1677591880-NufbsJUH6m73ZpEDbWcVN-0-e0834d91fad86680579b1d52f70ee04b)
+![](./images/code-coverage-report.png)
 
 点击 index.js 链接，可以看到更详细的结果：
 
-![](https://secure2.wostatic.cn/static/a7hjHQJW8KmS3aPPBxnL1U/code-coverage-index-js.png?auth_key=1677591920-m5cnFRHjH3UzgJVZv5u4vy-0-e03b9bf058137338b9fb68c9fe71f80c)
+![](./images/code-coverage-index-js.png)
 
 有了上面的基础，下面来看看如何提升代码覆盖率。
 
