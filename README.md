@@ -2,6 +2,7 @@
 
 ## 极客时间3月挑战
 
+- [Pinia初体验](./frontend-camp-challenge-mar-day2.md)：前端进阶训练营笔记-3月打卡-Day2，2023-3-2
 - [使用 Cypress 做E2E端到端测试](./frontend-camp-challenge-mar-day1.md)：前端进阶训练营笔记-3月打卡-Day1，2023-3-1
 
 ## 极客时间2月挑战
