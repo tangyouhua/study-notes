@@ -92,7 +92,7 @@ const counter = useCounterStore()
 启动项目：
 
 ```Bash
-yarn add dev
+yarn run dev
 ```
 
 点击各个按钮，都可以看到 `count` 加1
