@@ -100,7 +100,7 @@ info {
 }
 ```
 
-完整代码可参考这里：[https://github.com/tangyouhua/lab-mini-webpack/tree/day1](https://github.com/tangyouhua/lab-mini-webpack/tree/day2)
+完整代码可参考这里：[https://github.com/tangyouhua/lab-mini-webpack/tree/day2](https://github.com/tangyouhua/lab-mini-webpack/tree/day2)
 
 ## 遗留问题
 
