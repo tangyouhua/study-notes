@@ -2,6 +2,7 @@
 
 ## 极客时间3月挑战
 
+- [手写 Webpack（2）：AST 与模块分析](./frontend-camp-challenge-mar-day6.md)：前端进阶训练营笔记-3月打卡-Day6，2023-3-6
 - [手写 Webpack（1）：原型与 Bundle](./frontend-camp-challenge-mar-day5.md)：前端进阶训练营笔记-3月打卡-Day5，2023-3-5
 - [迷你 Pinia](./frontend-camp-challenge-mar-day4.md)：前端进阶训练营笔记-3月打卡-Day4，2023-3-4
 - [Pinia源码分析](./frontend-camp-challenge-mar-day3.md)：前端进阶训练营笔记-3月打卡-Day3，2023-3-3
