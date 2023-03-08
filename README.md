@@ -2,6 +2,7 @@
 
 ## 极客时间3月挑战
 
+- [手写 Vite（1）：基础功能](./frontend-camp-challenge-mar-day8.md)：前端进阶训练营笔记-3月打卡-Day8，2023-3-8
 - [手写 Webpack（3）：依赖分析与打包](./frontend-camp-challenge-mar-day7.md)：前端进阶训练营笔记-3月打卡-Day7，2023-3-7
 - [手写 Webpack（2）：AST 与模块分析](./frontend-camp-challenge-mar-day6.md)：前端进阶训练营笔记-3月打卡-Day6，2023-3-6
 - [手写 Webpack（1）：原型与 Bundle](./frontend-camp-challenge-mar-day5.md)：前端进阶训练营笔记-3月打卡-Day5，2023-3-5
