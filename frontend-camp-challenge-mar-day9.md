@@ -8,7 +8,7 @@
 
 使用 vue，加载后报告 “vue” 无法识别：
 
-![](.images/vite-load-vue-error.png)
+![](./images/vite-load-vue-error.png)
 
 浏览器默认情况下，对 `import {createApp, h} from 'vue'` 这样的写法不支持。
 
@@ -129,7 +129,7 @@ app.use(async (ctx) => {
 
 重新加载页面，可以看到 `vue` 、`runtime-dom` 、`runtime-core` 都正确加载了。
 
-![](.images/vite-load-vue-and-dependencies.png)
+![](./images/vite-load-vue-and-dependencies.png)
 
 ### 模拟环境变量
 
