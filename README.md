@@ -2,6 +2,7 @@
 
 ## 极客时间3月挑战
 
+- [手写 Vite（4）：CSS 文件支持](./frontend-camp-challenge-mar-day11.md)：前端进阶训练营笔记-3月打卡-Day11，2023-3-11
 - [手写 Vite（3）：Vue单文件组件支持](./frontend-camp-challenge-mar-day10.md)：前端进阶训练营笔记-3月打卡-Day10，2023-3-10
 - [手写 Vite（2）：第三方库支持](./frontend-camp-challenge-mar-day9.md)：前端进阶训练营笔记-3月打卡-Day9，2023-3-9
 - [手写 Vite（1）：基础功能](./frontend-camp-challenge-mar-day8.md)：前端进阶训练营笔记-3月打卡-Day8，2023-3-8
